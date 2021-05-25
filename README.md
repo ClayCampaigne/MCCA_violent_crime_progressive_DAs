@@ -1,6 +1,7 @@
 # MCCA_violent_crime_progressive_DAs
 
-Interact with this data by clicking the Binder link below, opening the `MMCA_data.ipynb` Jupyter notebook (click on the text of its name), and e.g. clicking `Kernel` menu, `Restart and Run All`.
+Interact with this data by clicking the pretty Launch Binder link below, opening the `MMCA_data.ipynb` Jupyter notebook (click on the text of its name), and e.g. clicking `Kernel` menu, `Restart and Run All`.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/MCCA_violent_crime_progressive_DAs/HEAD)
 
 
